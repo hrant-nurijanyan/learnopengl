@@ -1,0 +1,24 @@
+cmake_minimum_required(VERSION 3.22.1)
+
+project(hello_triangle_ex2)
+
+set(CMAKE_CXX_STANDARD, 17)
+
+add_executable(hello_triangle_ex2 main.cpp)
+
+set(EXT_DEPS_DIR ${CMAKE_CURRENT_SOURCE_DIR}/extDeps)
+
+set(CMAKE_EXPORT_COMPILE_COMMANDS 1)
+
+# Configuring glfw and glad
+set(GLFW_DIR ${EXT_DEPS_DIR}/glfw-3.3.8)
+set(GLAD_DIR ${EXT_DEPS_DIR}/glad)
+add_subdirectory(${GLFW_DIR})
+add_subdirectory(${GLAD_DIR})
+find_package(OpenGL REQUIRED)
+target_link_libraries(hello_triangle_ex2 PRIVATE glfw OpenGL::GL glad)
+target_include_directories(hello_triangle_ex2 PRIVATE ${GLFW_DIR}/include ${GLAD_DIR}/include)
+
+
+
+

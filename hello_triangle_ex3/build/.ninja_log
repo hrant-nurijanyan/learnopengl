@@ -1,0 +1,22 @@
+# ninja log v5
+0	44	1668456208653323880	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_thread.c.o	5c46d19d2e5d5c9c
+2	58	1668456208665324179	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/xkb_unicode.c.o	e9b2e96de0d48f3a
+3	61	1668456208669324277	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/glx_context.c.o	b734fad9ff6f7a61
+2	62	1668456208669324277	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_time.c.o	5fec3b1f17f82b4a
+1	73	1668456208681324574	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/vulkan.c.o	3d416516e8f84ff4
+0	74	1668456208681324574	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/context.c.o	2d2a000c6fffbccf
+2	79	1668456208689324773	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/osmesa_context.c.o	26aef40093564497
+0	80	1668456208689324773	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/init.c.o	936094e777404203
+1	85	1668456208693324873	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/monitor.c.o	d437c800acd4f4fc
+3	90	1668456208697324971	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/egl_context.c.o	920f537510549ea
+1	93	1668456208701325071	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/window.c.o	733a386829a7576d
+2	102	1668456208709325268	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_monitor.c.o	211b75b6509c8b15
+1	106	1668456208713325368	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/input.c.o	6b89f54d4a2a6341
+2	110	1668456208717325467	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_init.c.o	722df3b4b9c377c2
+45	114	1668456208721325567	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/linux_joystick.c.o	a03f7449eee1c61
+2	136	1668456208745326161	extDeps/glfw-3.3.8/src/CMakeFiles/glfw.dir/x11_window.c.o	4fd18d0eca0ad9c5
+136	146	1668456208753326359	extDeps/glfw-3.3.8/src/libglfw3.a	791455285a983b1e
+58	148	1668456208757326459	extDeps/glad/CMakeFiles/glad.dir/glad.c.o	f9d01933d5e4b050
+148	152	1668456208761326558	extDeps/glad/libglad.a	b2c27cc34ca49493
+0	216	1668456208825328144	CMakeFiles/hello_triangle_ex3.dir/main.cpp.o	e286340258bc3c23
+216	272	1668456208881329533	hello_triangle_ex3	e176cd97f240b16

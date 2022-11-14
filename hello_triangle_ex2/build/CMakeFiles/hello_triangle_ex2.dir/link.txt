@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hello_triangle_ex2.dir/main.cpp.o -o hello_triangle_ex2  extDeps/glfw-3.3.8/src/libglfw3.a extDeps/glad/libglad.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 
