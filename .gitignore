@@ -1,5 +1,2 @@
-.idea # IDE related stuff
-hello_window/build/*
-hello_window/.idea/*
-hello_triangle/build/* 
-hello_triangle/.idea/*
+.idea
+build
